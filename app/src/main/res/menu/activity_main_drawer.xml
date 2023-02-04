@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+<!--        The navigation menu is defined as a group with "single",
+            meaning that only one item can be selected at a time.  -->
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_cart"
+            android:title="@string/menu_cart"
+
+            />
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_checkout_white"
+            android:title="@string/menu_orders" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="تسجيــل الخـروج" />
+
+        <item
+            android:id="@+id/nav_deleteAcc"
+            android:icon="@drawable/ic_delete_white_24dp"
+            android:title="حذف الحـســاب" />
+    </group>
+</menu>
