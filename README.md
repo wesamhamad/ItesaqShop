@@ -1,6 +1,6 @@
-# Android Application Using Java,XML and Firebase
+## Android Application Using Java,XML and Firebase
 
-## "إتـســاق" Application
+### "إتـســاق" Application
 The Android application for the painting shop called "إتـســاق" is developed using Java, XML, and Firebase. It offers various functionalities for both the admin and customers to make the ordering process seamless.
 
 enhancing and expanding our programming with web technology content for the "إتـســاق"  website, which displays everything about art and artists and houses our shop where we offer distinctive paintings in one-of-a-kind pieces.
